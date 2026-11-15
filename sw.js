@@ -2,6 +2,7 @@
 const CACHE = 'jobhunt-v1';
 const SHELL = [
   './', 'index.html', 'styles.css', 'config.js', 'manifest.webmanifest',
+  'icons/icon-32.svg', 'icons/icon-180.svg', 'icons/icon-192.svg', 'icons/icon-512.svg', 'icons/icon-maskable-512.svg',
 ];
 
 self.addEventListener('install', (e) => {
