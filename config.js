@@ -4,7 +4,7 @@
 */
 window.JOBHUNT_CONFIG = {
   // Required. OAuth client ID (type: Web application), for example "1234567890-abc123.apps.googleusercontent.com".
-  GOOGLE_CLIENT_ID: '',
+  GOOGLE_CLIENT_ID: '179558206528-h3vp53ivv2ttv76p31s6nf964ql92nbl.apps.googleusercontent.com',
 
   // Optional. Turns on the Google Drive file picker for choosing a CV or cover letter.
   // Without these, people paste a Drive link instead and paste their CV text.
